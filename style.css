@@ -1,0 +1,19 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #9ee597, #82cdb9, #39533b, #66a8cb, #22343c);
+}
+
+.header
+{
+	color: rgb(142, 74, 74);font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+
+.h1{
+    color:brown
+}
